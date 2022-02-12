@@ -1,1 +1,8 @@
-
+{
+  "servers": [
+    {
+      "name": "Spigot",
+      "url": ""
+    }
+  ]
+}
