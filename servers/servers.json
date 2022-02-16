@@ -2,19 +2,19 @@
   "servers": [
     {
       "name": "Spigot",
-      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\spigot.json"
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/spigot.json"
     },
     {
       "name": "CraftBukkit",
-      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\craftbukkit.json"
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/craftbukkit.json"
     },
     {
       "name": "Paper",
-      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\paper.json"
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/paper.json"
     },
     {
       "name": "Purpur",
-      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\purpur.json"
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/purpur.json"
     }
   ]
 }
