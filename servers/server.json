@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "Spigot",
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/spigot.json"
+    },
+    {
+      "name": "CraftBukkit",
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/craftbukkit.json"
+    },
+    {
+      "name": "Paper",
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/paper.json"
+    },
+    {
+      "name": "Purpur",
+      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/purpur.json"
+    }
+  ]
+}
