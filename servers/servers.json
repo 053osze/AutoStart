@@ -6,7 +6,7 @@
     },
     {
       "name": "CraftBukkit",
-      "url": "https://raw.githubusercontent.com/053osze/AutoStart/main/servers/craftbukkit.json"
+      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\craftbukkit.json"
     },
     {
       "name": "Paper",
