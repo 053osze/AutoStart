@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "Spigot",
+      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\spigot.json"
+    },
+    {
+      "name": "CraftBukkit",
+      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\craftbukkit.json"
+    },
+    {
+      "name": "Paper",
+      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\paper.json"
+    },
+    {
+      "name": "Purpur",
+      "loc": "E:\\Plant\\maven-plugin\\src\\main\\resources\\purpur.json"
+    }
+  ]
+}
